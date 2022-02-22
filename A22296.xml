@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of His Maiesties royall priuiledge, graunted vnder the great seale of England, to George VVither, master of arts, concerning his booke intituled, The hymnes and songs of the church</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22296</idno>
+            <idno type="STC">STC 8704.5</idno>
+            <idno type="STC">ESTC S3412</idno>
+            <idno type="EEBO-CITATION">33149696</idno>
+            <idno type="OCLC">ocm 33149696</idno>
+            <idno type="VID">28471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22296)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28471)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1875:142)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of His Maiesties royall priuiledge, graunted vnder the great seale of England, to George VVither, master of arts, concerning his booke intituled, The hymnes and songs of the church</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1623]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains list of formats available, at end of sheet.</note>
+                  <note>Place and date of publication from STC (2nd ed.).</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wither, George, 1588-1667. --  Hymns and songs of the church.</term>
+               <term>Church of England --  Hymns.</term>
+               <term>Hymns and songs of the church.</term>
+               <term>Hymns, English --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:28471:1"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <figure>
+                  <p>I R</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>An Abſtract of His Maieſties Royall Priuiledge, Graunted vnder the Great Seale of ENGLAND, to GEORGE VVITHER Maſter of Arts, concerning his Booke intituled, <hi>The Hymnes and Songs</hi> of the <hi>Church.</hi>
+            </head>
+            <p>WHEREAS the <hi>Kings</hi> moſt excellent Maieſtie, hauing peruſed and taken particular notice of the ſaid Booke, conceiueth the ſame, tending to the glory of God, and helpefull towards the encreaſe of Chriſtian knowledge and Deuotion in His Dominions: It hath pleaſe His Maieſtie in con<g ref="char:EOLhyphen"/>ſideration thereof (and to recompence, and to encourage the ſaid <hi>George Wither</hi> in pious endea<g ref="char:EOLhyphen"/>uours) by His Letters Patents, bearing Date the 17. <hi>of. February,</hi> in the twentieth yeare of His Raigne of <hi>England,</hi> &amp;c. to Graut vnto the ſaid <hi>George Wither,</hi> during the Terme of 51. yeares, full Licence and Authoritie to imprint the ſaid Booke, either with, or without Arguments and Muſi<g ref="char:EOLhyphen"/>call notes (and to vtter and ſell the ſame in any of His Dominions:) with a prohibition alſo, that no other whoſoeuer, ſhall directly nor indirectly in place Priuiledged or not Priuilei ged, within His Maieſties Dominons, imprint du<g ref="char:EOLhyphen"/>ring the ſaid Terme, or tranſport from beyond the Seas the ſaid Booke or any part thereof; nor vtter, put to Sale, or diſpoſe of any of the ſaid Bookes ſo imprinted or tranſported, on paine of His Maieſties heauy diſpleaſure, and ſuch paines, penalties, and impriſonments, as by the Lawes of this Kingdome may be inflicted on the offenders for con<g ref="char:EOLhyphen"/>temning and diſobeying of His Maieſties Prerogatiue Royall; And vpon the penaltie of forfeiting all ſuch Booke and Bookes, &amp;c. and forty ſhillings for euery Booke, <hi>&amp;c.</hi>
+            </p>
+            <p>Moreouer, that the ſaid Booke might be the more conueniently diſperſed, for the inſtruction and priuate deuotion of His Maieſties louing ſubiects; It hath pleaſed His Highneſſe to command alſo in the ſame Letters Patents, that no Engliſh <hi>Pſalme-Booke</hi> in Meeter, ſhall be bound vp alone, or with any other Booke or Bookes, vnleſſe the ſaid <hi>Hymnes</hi> and <hi>Song</hi> of the <hi>Church</hi> be annexed thereunto, after the ſaid Booke is imprinted to that purpoſe; vpon paine of forfei<g ref="char:EOLhyphen"/>ting all Bookes ſo bound vp, <hi>&amp;c.</hi> And for the better execution of the ſaid Graunt, the ſaid <hi>George Wither</hi> or his Aſ<g ref="char:EOLhyphen"/>ſignes, <hi>&amp;c.</hi> are authoriſed, taking with him or them a lawfull Officer, to enter into ſuch Dwellings, Shops, and Warehouſes, <hi>&amp;c.</hi> wherein they ſhall ſuſpect any offence made contrary to the ſaid Graunt, and to take, ceaze, and car<g ref="char:EOLhyphen"/>ry away, <hi>&amp;c.</hi> all Bookes imprinted or bound vp contrary to the meaning of the ſaid Letters Patents, <hi>&amp;c.</hi> And the Maſters, Wardens, <hi>&amp;c.</hi> of the Company of Stationers are commanded alſo to be aſſiſtant in the execution of the ſaid Graunt, as appeareth more at large in the ſaid Letters Patents, among other Grations Priuiledges vouchſafed.</p>
+            <p>
+               <hi>The <hi>Hymnes</hi> aforenamed, are to be ſold at the Signe of the <hi>Blew Anchor</hi> in Saint <hi>Paules</hi> Churchyard, ouer againſt Saint <hi>Gregoies</hi> Church, and in theſe ſeuerall Volumes following;</hi>
+               <list>
+                  <item>In folio Roman.</item>
+                  <item>In quarto Pica.</item>
+                  <item>In quarto Breuier common.</item>
+                  <item>In quarto Breuier Engliſh.</item>
+                  <item>In octauo Middleborough.</item>
+                  <item>In octauo Nonparel.</item>
+                  <item>In octauo common.</item>
+                  <item>In twelues for Bibles.</item>
+                  <item>In ſixteene Middleborough.</item>
+                  <item>In ſixteene common.</item>
+                  <item>In 24.</item>
+                  <item>In 32.</item>
+               </list>
+            </p>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
